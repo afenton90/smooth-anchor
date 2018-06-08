@@ -37292,42 +37292,9 @@ __WEBPACK_IMPORTED_MODULE_0__index___default()();
 
 /***/ }),
 
-/***/ 38:
+/***/ 6:
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
-__webpack_require__("./polyfill.js");
 __webpack_require__("./polyfill.js");
 __webpack_require__("./polyfill.js");
 __webpack_require__("./polyfill.js");
@@ -37340,5 +37307,5 @@ module.exports = __webpack_require__("./node_modules/next/dist/client/next-dev.j
 
 /***/ })
 
-},[38]);
+},[6]);
 //# sourceMappingURL=main.js.map
