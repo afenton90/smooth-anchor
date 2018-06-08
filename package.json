@@ -1,0 +1,12 @@
+{
+  "name": "smooth-anchor",
+  "version": "1.0.0",
+  "description": "easy smooth scrolling for anchor tags",
+  "main": "index.js",
+  "repository": "https://afenton90@github.com/afenton90/smooth-anchor.git",
+  "author": "Alex Fenton <afenton90@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "smoothscroll-polyfill": "^0.4.3"
+  }
+}
