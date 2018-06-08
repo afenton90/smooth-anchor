@@ -1,4 +1,5 @@
 module.exports = {
+  assetPrefix: isProduction ? '/smooth-anchor' : '',
   webpack: config => {
     const originalEntry = config.entry;
     config.entry = async () => {
