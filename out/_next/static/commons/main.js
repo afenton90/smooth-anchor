@@ -37292,7 +37292,7 @@ __WEBPACK_IMPORTED_MODULE_0__index___default()();
 
 /***/ }),
 
-/***/ 6:
+/***/ 7:
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__("./polyfill.js");
@@ -37307,5 +37307,5 @@ module.exports = __webpack_require__("./node_modules/next/dist/client/next-dev.j
 
 /***/ })
 
-},[6]);
+},[7]);
 //# sourceMappingURL=main.js.map
